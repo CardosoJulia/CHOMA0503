@@ -5,6 +5,13 @@ body{
 }
 .navebar{
     background-color: rgb(156, 156, 156);
-
+    padding: 10px; /*distancia da borda*/
+}
+.navebar a {
+color: white;
+text-decoration: none; /*tirar sublinhado*/
+}
+.navebar li{
+list-style: none;/*tirar ponto da lista*/
 
 }
